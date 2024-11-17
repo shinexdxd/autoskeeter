@@ -8,7 +8,7 @@ from atproto import Client
 # Settings for the script
 bsky_username = "your_bluesky_username"  # BlueSky username for authentication
 bsky_password = "your_bluesky_password"  # BlueSky password for authentication
-skeet_message_template = "hey cuties, i'm \U0001F534 live now! \U0001F534 {title} - come hang out: {link}"  # Template for the skeet message
+skeet_message_template = "hey cuties, i'm 🔴 live now! 🔴 | {title} - come hang out: {link}"  # Template for the skeet message
 last_skeet_time = None  # Keeps track of the last time a skeet was posted
 thumbnail_url = ""  # URL for the thumbnail image (optional)
 youtube_link = ""  # URL for the YouTube live stream
